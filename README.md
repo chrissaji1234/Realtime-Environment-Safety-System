@@ -66,7 +66,7 @@ This thread controls the output of the LCD display. The thread begins by clearin
 
 ### System Working Outside (High Noise/ High UV)
 
-![System working Outisde](https://github.com/chrissaji1234/Realtime-Environment-Safety-System/blob/master/Photos/Outside.jpg)
+![System working Outside](https://github.com/chrissaji1234/Realtime-Environment-Safety-System/blob/master/Photos/Outside_NEW.jpg)
 
 ## References
 
