@@ -70,7 +70,7 @@ This thread controls the output of the LCD display. The thread begins by clearin
 
 ## References
 
-### [STM 32 L4R5ZI Pin Outs](https://www.st.com/resource/en/user_manual/um2179-stm32-nucleo144-boards-mb1312-stmicroelectronics.pdf#page=35)
+### [STM32 L4R5ZI Pin Outs](https://www.st.com/resource/en/user_manual/um2179-stm32-nucleo144-boards-mb1312-stmicroelectronics.pdf#page=35)
 
 ### [STM32 L4 MCU Documentation](https://www.st.com/resource/en/reference_manual/dm00310109-stm32l4-series-advanced-armbased-32bit-mcus-stmicroelectronics.pdf)
 
